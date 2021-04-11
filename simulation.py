@@ -4,7 +4,7 @@ import requests
 import datetime
 import omfMsgBuilder as omf
 
-# data= '[{"containerid": "MyCustomContainer","values": [{"Timestamp": \"2021-04-10T10:18:24.9870136Z\","Value": 12345.6789},{"Timestamp": \"2012-04-10T10:18:25.9870136Z\","Value": 12346.6789}]}]'
+#data= '[{"containerid": "MyCustomContainer","values": [{"Timestamp": \"2021-04-10T10:18:24.9870136Z\","Value": 12345.6789},{"Timestamp": \"2012-04-10T10:18:25.9870136Z\","Value": 12346.6789}]}]'
 
 url= "http://localhost:5590/api/v1/tenants/default/namespaces/default/omf"
 headers = {'content-type': 'application/json','producertoken': 'x','omfversion': '1.1', 'action': 'create','messageformat': 'json','messagetype': 'data'}
