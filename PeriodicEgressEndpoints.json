@@ -1,0 +1,8 @@
+[{
+    "Id": "OCS",
+    "ExecutionPeriod" : "00:00:15",
+    "Backfill" : true,
+    "Endpoint" : "https://dat-d.osisoft.com/api/v1/Tenants/8a8e2c15-610b-4a89-8520-199d99ff0f58/Namespaces/ACT/omf",
+    "ClientId" : "ec4c79e2-b14c-4a33-9ef6-50e7542b28ee",
+    "ClientSecret" : "+4E6bs1iZFD3mXCwfuIJQEZISwHTRzPjdmBx7lSwHM8="
+}]
