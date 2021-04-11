@@ -1,0 +1,17 @@
+[{
+    "id": "Sim.Gauss.505",
+    "typeid": "SimulationType"
+},{
+    "id": "Sim.Triangular.406050",
+    "typeid": "SimulationType"
+},{
+    "id": "Sim.Uniform.4060",
+    "typeid": "SimulationType"
+},{
+    "id": "Sim.Random.01",
+    "typeid": "SimulationType"
+},{
+    "id": "Sim.Pareto.1",
+    "typeid": "SimulationType"
+}
+]

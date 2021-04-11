@@ -1,0 +1,16 @@
+[{
+    "id": "SimulationType",
+    "classification": "dynamic",
+    "type": "object",
+    "properties": {
+        "Timestamp": {
+            "type": "string",
+            "format": "date-time",
+            "isindex": true
+        },
+        "Value": {
+            "type": "number",
+            "format": "float32"
+        }
+    }
+}]
